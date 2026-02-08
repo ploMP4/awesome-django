@@ -376,6 +376,7 @@ _A short list of Python packages that work well with Django._
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
 - [Ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [WebRockets](https://github.com/ploMP4/webrockets) - High-performance Rust-powered WebSocket server with first-class Django support, featuring built-in authentication, JSON pattern-matching routes, Pydantic validation, and Redis/RabbitMQ broadcasting.
 
 ## Resources
 
